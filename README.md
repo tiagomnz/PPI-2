@@ -1,1 +1,1 @@
-# PPI-2
+# Repositório para a cadeira PPI-2
